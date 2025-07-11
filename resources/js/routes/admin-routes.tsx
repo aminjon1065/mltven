@@ -30,11 +30,6 @@ export const eCommerceNavItems: NavItem[] = [
         title: 'Категории',
         href: '/admin/categories',
         icon: ListIcon,
-        items: [
-            { title: 'Категория', href: '/admin/categories' },
-            { title: 'Подкатегории', href: '/admin/sub-category' },
-            { title: 'Дочерняя категория', href: '/admin/child-category' },
-        ],
     },
     {
         title: 'Товары',
